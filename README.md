@@ -5,7 +5,7 @@ A Telegram Video Compressor Bot By [@xgorn](https://t.me/xgorn). **This bot work
 <a href="https://t.me/xvidcombot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
-[![[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/synuser/X-Video-Compressor/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/synuser/X-Video-Compressor/tree/master)
 
 ### Projects Channel:
 <a href="https://t.me/xTeamBots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
