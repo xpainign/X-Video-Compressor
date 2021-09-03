@@ -49,7 +49,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support', url='https://telegram.me/share/url?url=**Syn%20-%20Video%20-%20Compressor**%20%0A%0AYou%20can%20Compress%20Telegram%20Videos%0A%0ACompress%20now%20-%20@Synvidcombot')
+                    InlineKeyboardButton('Support', url='t.me/txpain')
                 ]
             ]
         ),
@@ -266,8 +266,8 @@ async def incoming_cancel_message_f(bot, update):
   if os.path.exists(status):
     inline_keyboard = []
     ikeyboard = []
-    ikeyboard.append(InlineKeyboardButton("Yes 🚫", callback_data=("fuckingdo").encode("UTF-8")))
-    ikeyboard.append(InlineKeyboardButton("No 🤗", callback_data=("fuckoff").encode("UTF-8")))
+    ikeyboard.append(InlineKeyboardButton("Yes 🚫", callback_data=("Yes").encode("UTF-8")))
+    ikeyboard.append(InlineKeyboardButton("No 🤗", callback_data=("No").encode("UTF-8")))
     inline_keyboard.append(ikeyboard)
     reply_markup = InlineKeyboardMarkup(inline_keyboard)
     await update.reply_text("Are you sure? 🚫 This will stop the compression!", reply_markup=reply_markup, quote=True)
