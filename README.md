@@ -1,5 +1,5 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [@txpain](https://t.me/txpain). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot maintained By [@txpain](https://t.me/txpain). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Demo Bot:
 <a href="https://t.me/xvidcombot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
